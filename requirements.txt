@@ -1,0 +1,6 @@
+Flask
+requests
+python-docx
+python-pptx
+PyPDF2
+gunicorn
